@@ -28,7 +28,7 @@ if (hour < 14) {
  const name = 'BUNYODbek'
 
 if (soat < 13) {
-     console.log('Xayrli tong' ${name} );
+     console.log('Xayrli tong' ${name});
  } else if (soat < 19) {
      console.log('Xayrli kun'  ${name});
  } else {
